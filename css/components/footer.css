@@ -1,0 +1,32 @@
+footer {
+  background-color: #00008b;
+  text-align: center;
+  height:200px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: relative;
+}
+
+ul {
+  list-style-type: none;
+  margin: auto;
+}
+
+li {
+  display: inline;
+  font-size: 25px;
+  font-weight: bold;
+  padding: 30px;
+  padding-top: 30px;
+  list-style-position: inside;
+  text-align: center;
+  color: white;
+}
+.footer {
+  position: absolute;
+  bottom: 20px;
+  left:630px;
+  color: red;
+}
+
